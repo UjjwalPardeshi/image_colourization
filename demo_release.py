@@ -46,11 +46,11 @@ plt.axis('off')
 
 plt.subplot(2,2,3)
 plt.imshow(out_img_eccv16)
-plt.title('Output (ECCV 16)')
+plt.title('Output')
 plt.axis('off')
 
 plt.subplot(2,2,4)
 plt.imshow(out_img_siggraph17)
-plt.title('Output (SIGGRAPH 17)')
+plt.title('Output')
 plt.axis('off')
 plt.show()
