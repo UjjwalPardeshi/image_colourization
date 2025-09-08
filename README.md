@@ -18,23 +18,6 @@ Features
 
     Pretrained model weights included for immediate use.
 
-Repository Structure
-
-text
-├── README.md               # Project documentation
-├── colorizers              # Colorization models and utilities
-│   ├── __init__.py         # Module imports
-│   ├── base_color.py       # Base model class with normalization functions
-│   ├── eccv16.py           # ECCV16 model definition
-│   ├── siggraph17.py       # SIGGRAPH17 model definition
-│   ├── util.py             # Helper functions for image loading and processing
-│   └── __pycache__         # Compiled Python files
-├── demo_release.py         # Demo script for testing colorization on images
-├── imgs                    # Sample input images for testing
-├── imgs_out                # Output images produced by models
-├── saved_eccv16.png        # Sample colorized results
-└── saved_siggraph17.png    # Sample colorized results
-
 Installation
 
     Clone the repository.
