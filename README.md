@@ -72,13 +72,3 @@ This project implements the architectures proposed by Zhang et al.:
 - **Model 1 (SIGGRAPH17)**: Focuses on colorfulness and natural tones.
 - **Model 2 (ECCV16)**: The original groundbreaking architecture for colorful image colorization.
 
-## 📸 Screenshots
-
-*(Add your screenshots here to showcase the premium UI!)*
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-Built with ❤️ by [Ujjwal Pardeshi](https://github.com/UjjwalPardeshi)
